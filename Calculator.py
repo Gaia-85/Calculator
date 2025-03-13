@@ -26,7 +26,7 @@ print("5. Square")
 
 
 while True:
-    choice = input("Enter Number (1, 2, 3, 4, 5): ")
+    choice = input("Select Operator (1, 2, 3, 4, 5): ")
 
     if choice in ("1", "2", "3", "4"):
         try:
